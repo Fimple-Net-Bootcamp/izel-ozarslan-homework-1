@@ -47,5 +47,6 @@ This C# console application represents a management system for a library, design
 
 When you run the project, a console application simulating the library management system will be initiated. You can add books, manage members, and perform borrowing processes.
 
+![image](https://github.com/Fimple-Net-Bootcamp/izel-ozarslan-homework-1/assets/47329661/1d0c8474-6267-49f5-8a88-8bc6c93ae604)
 
 
